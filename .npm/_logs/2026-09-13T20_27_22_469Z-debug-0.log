@@ -6,8 +6,8 @@
 5 silly config load:file:/.sprite/languages/node/nvm/versions/node/v24.18.0/etc/npmrc
 6 verbose title npm run dev --config vite.sprites-preview.config.ts --port 8080 --host 0.0.0.0
 7 verbose argv "run" "dev" "--" "--config" "vite.sprites-preview.config.ts" "--port" "8080" "--host" "0.0.0.0"
-8 verbose logfile logs-max:10 dir:/home/sprite/.npm/_logs/2026-09-13T20_06_43_115Z-
-9 verbose logfile /home/sprite/.npm/_logs/2026-09-13T20_06_43_115Z-debug-0.log
+8 verbose logfile logs-max:10 dir:/home/sprite/.npm/_logs/2026-09-13T20_27_22_469Z-
+9 verbose logfile /home/sprite/.npm/_logs/2026-09-13T20_27_22_469Z-debug-0.log
 10 silly logfile start cleaning logs, removing 1 files
 11 silly logfile done cleaning log files
 12 notice run app@0.0.0 dev
